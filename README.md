@@ -14,6 +14,7 @@
 
 ```
 [Screenshot_1.png]
+![Скриншот-1](https://github.com/StepanST1/hw8-03/blob/main/img/Screenshot_1.png)
 ```
 
 `При необходимости прикрепитe сюда скриншоты
