@@ -13,7 +13,7 @@
 4.На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
 ```
-[Screenshot_1.png]
+[img/Screenshot_1.png]
 ![Скриншот-1](https://github.com/StepanST1/hw8-03/blob/main/img/Screenshot_1.png)
 ```
 
